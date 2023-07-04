@@ -81,3 +81,9 @@
     margin-bottom: 20px;
     padding-right: 8px;
 }
+@media (max-width: 750px) {
+    .article {
+        width: 100%;
+        height: auto;
+        display: block;
+    } 
